@@ -26,8 +26,8 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to Neocities
-        uses: bcomnes/deploy-to-neocities@v1
+        uses: bcomnes/deploy-to-neocities@v3
         with:
-          api-token: ${{ secrets.NEOCITIES_API_KEY }}
+          api_key: ${{ secrets.NEOCITIES_API_KEY }}
           cleanup: true
-          dist-dir: public
+          dist_dir: public
