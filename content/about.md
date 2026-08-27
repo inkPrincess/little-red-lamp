@@ -2,7 +2,10 @@
 title: "About"
 ---
 
-Welcome to *Little Red Lamp*, a website managed by selina (inkblotPrincess).
+Welcome to *Little Red Lamp*, a website managed by selina AKA inkblotPrincess.\
+I can be found on [Twitter](https://x.com/inkblotPrincess/) and [GitHub](https://github.com/inkPrincess/).
+
+# Selected excerpts
 
 ___
 
@@ -16,6 +19,20 @@ ___
 > The cyborg is resolutely committed to partiality, irony, intimacy, and perversity. It is oppositional, utopian, and completely without innocence. No longer structured by the polarity of public and private, the cyborg defines a technological polis based partly on a revolution of social relations in the oikos, the household. Nature and culture are reworked; the one can no longer be the resource for appropriation or incorporation by the other. The relationships for forming wholes from parts, including those of polarity and hierarchical domination, are at issue in the cyborg world. Unlike the hopes of Frankenstein’s monster, the cyborg does not expect its father to save it through a restoration of the garden—that is, through the fabrication of a heterosexual mate, through its completion in a finished whole, a city and cosmos. The cyborg does not dream of community on the model of the organic family, this time without the oedipal project. The cyborg would not recognize the Garden of Eden; it is not made of mud and cannot dream of returning to dust.
 
 —Haraway, Donna. 1990. “A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century.” In *Simians, Cyborgs, and Women: The Reinvention of Nature*, 149–81. United Kingdom: Routledge.
+
+___
+
+> How 'bout sorcery? \
+> That's a systematic cultivation of enhanced consciousness and non-ordinary awareness, as well as the deployment of such in the world of deeds and objects to produce desired results \
+> So what you're telling me is the artist is a sorcerer? \
+> The quality of perception defines the world through intoxication \
+> So mundane in life \
+> Sustaining and expanding on that requires activity called sorcery \
+> Kings, hierophants, mystics, scientists, publicists, owners \
+> All these people find an enemy in a sorcerer \
+> Is poetry sorcery?
+
+—R.A.P. Ferreira. "JUBILEE CONCEPT." Track 19 on *purple moonlight pages*. n.p., 2020, Vinyl. 
 
 ___
 
@@ -41,7 +58,7 @@ ___
 > 
 > **Wilard H. Wright**: Yeah, I know. Your boyfriend said he'd be willing to give up everything to prove your alibi. You should thank him. That kid said that honor and reputation are worth nothing compared to you.
 > 
-> Maid: B, but, if he does that, he'll...
+> **Maid**: B, but, if he does that, he'll...
 > 
 > **Wilard H. Wright**: It won't come to that. Exposing the secrets between lovers is a job for third-rate magazines. That's not mystery. I'll never allow for heartless reasoning.
 > 
